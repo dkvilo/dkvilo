@@ -1,4 +1,11 @@
-### Halloo 👋
+## Hi 👋 I'm David
+Software engineer by day, Game developer by night.
+
+### Github Stats
+![Overal Stats](https://github-readme-stats.vercel.app/api?username=dkvilo)
+
+### According to Github ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkvilo&hide_langs_below=1)
 
 <!--
 **dkvilo/dkvilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
