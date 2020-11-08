@@ -1,4 +1,4 @@
-## Hi 👋 I'm David
+## Hello 👋 I'm David
 Software engineer by day, Game developer by night.
 
 <!--
